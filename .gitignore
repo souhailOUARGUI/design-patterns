@@ -1,0 +1,20 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Compiled output
+out/
+
+# Default ignored files
+shelf/
+workspace.xml
+
+# Datasource local storage
+dataSources/
+dataSources.local.xml
+
+# Editor-based HTTP Client requests
+httpRequests/
+
+# Query files
+queries/
